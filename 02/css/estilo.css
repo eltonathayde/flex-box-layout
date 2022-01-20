@@ -1,0 +1,38 @@
+@charset "UTF-8";
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.cabecalho{
+    background-color: #3474e6;
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+}
+.logo{
+font-size: 2em;
+}
+
+
+.menu  li{
+color: white;
+display: flex;
+align-items: center;
+align-content: center;
+font-size: 1.5em;
+float: right;
+width: auto;
+margin: 0 5px;
+}
+  /* paleta de cores 
+{meio "#0151cc"
+os 3 retamgulso-"#0a51cc"
+os 9 quadrados -#00e3d5}*/
