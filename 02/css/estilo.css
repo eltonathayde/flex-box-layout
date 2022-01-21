@@ -32,7 +32,89 @@ float: right;
 width: auto;
 margin: 0 5px;
 }
+.one{
+    background-color:#0151cc ;
+}
+.boxOne {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 110px;
+}
+.boxMain{
+    color: white;
+    width: 50%;
+}
+.boxMain h2{
+    font-size: 3.0em;
+}
+.boxMain p  {
+  font-size: 1.5em;
+  width: 76%;
+  margin-top: 15px;
+}
+
+.box{
+    height: 40px;
+    background-color:#0151cc  ;
+    border: solid 10px  #00e3d5;
+    border-radius: 5px;
+}
+
+.tt{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+   justify-content: center;
+   align-content: center;
+   
+}
+.tt div {
+    width: 14.3%;
+    text-align: center;
+    margin: 7px;
+}
+.two{
+    background-color:#a1c3ff ;
+    height: 580px;
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center; */
+}
+.sectionTwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+}
+.melhor{
+    background-color:#0151cc ;
+    color: white;
+    width: 391px;
+    height: 285px;
+    margin: 15px;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+.two h3  {
+    font-size: 2.0em;
+    margin-left: 23px;
+}
+.two p{
+    font-size: 1.5em;
+    margin-top: 55px;
+}
+i{
+    margin-right: 18px;
+}
+ 
+
   /* paleta de cores 
 {meio "#0151cc"
 os 3 retamgulso-"#0a51cc"
-os 9 quadrados -#00e3d5}*/
+os 9 quadrados -#00e3d5}
+back ground2 #a1c3ff*/
